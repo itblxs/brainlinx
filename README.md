@@ -1,6 +1,6 @@
 # BrainLinx
 
-BrainLinx is a premier strategic conference organizer specializing in the Hospitality, Industry 4.0, Intellectual Property, and Pharma Packaging sectors. We bring together leading experts, innovators, and industry leaders to explore the latest advancements and foster collaboration.
+BrainLinx is a premier strategic conference organizer specializing in the Hospitality, Industry 4.0, Intellectual Property, and Pharma Packaging sectors. We bring together leading experts, innovators, and industry leaders to explore the latest advancements and foster collaboration. ( Haroon )
 
 ## Services
 
